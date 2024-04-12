@@ -43,7 +43,7 @@ c.execute('''SELECT * FROM Stock_Performance''')
 results = c.fetchall()
 print(results)
 
-c.execute('''DELETE FROM Stock_Performance''')
+# c.execute('''DELETE FROM Stock_Performance''')
 
 conn.close()
 

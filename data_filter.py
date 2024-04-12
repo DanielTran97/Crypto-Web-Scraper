@@ -37,6 +37,8 @@ def filter_crypto_data(symbol = None, name = None):
     conn.close
 
 # Example usage:
-filter_crypto_data(symbol="BTC-USD")
+filter_crypto_data(symbol="BTC-USD") 
 
 # filter_crypto_data(name = "Bitcoin USD")
+
+# Create a JS front end to interface with user. 
