@@ -40,3 +40,15 @@ for item in soup.select('.simpTblRow'):
 #     print()
 #     print('-----------Divider----------')
 #     print()
+
+
+
+
+
+
+
+
+
+
+
+
